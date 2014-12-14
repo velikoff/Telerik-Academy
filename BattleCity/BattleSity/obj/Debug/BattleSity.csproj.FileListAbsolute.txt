@@ -1,0 +1,6 @@
+C:\Users\Velikoff\Desktop\New folder (3)\Battle City TFS\BattleSity\BattleSity\bin\Debug\BattleSity.exe.config
+C:\Users\Velikoff\Desktop\New folder (3)\Battle City TFS\BattleSity\BattleSity\bin\Debug\BattleSity.exe
+C:\Users\Velikoff\Desktop\New folder (3)\Battle City TFS\BattleSity\BattleSity\bin\Debug\BattleSity.pdb
+C:\Users\Velikoff\Desktop\New folder (3)\Battle City TFS\BattleSity\BattleSity\obj\Debug\BattleSity.csprojResolveAssemblyReference.cache
+C:\Users\Velikoff\Desktop\New folder (3)\Battle City TFS\BattleSity\BattleSity\obj\Debug\BattleSity.exe
+C:\Users\Velikoff\Desktop\New folder (3)\Battle City TFS\BattleSity\BattleSity\obj\Debug\BattleSity.pdb

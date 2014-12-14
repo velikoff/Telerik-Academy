@@ -1,0 +1,6 @@
+c:\users\velikoff\documents\visual studio 2012\Projects\DefiningClassesPartOne\HomeworkExams\bin\Debug\HomeworkExams.exe.config
+C:\Users\Velikoff\documents\visual studio 2012\Projects\DefiningClassesPartOne\HomeworkExams\obj\Debug\HomeworkExams.csprojResolveAssemblyReference.cache
+C:\Users\Velikoff\Documents\Visual Studio 2012\Projects\DefiningClassesPartOne\HomeworkExams\bin\Debug\HomeworkExams.exe
+C:\Users\Velikoff\Documents\Visual Studio 2012\Projects\DefiningClassesPartOne\HomeworkExams\bin\Debug\HomeworkExams.pdb
+C:\Users\Velikoff\Documents\Visual Studio 2012\Projects\DefiningClassesPartOne\HomeworkExams\obj\Debug\HomeworkExams.exe
+C:\Users\Velikoff\Documents\Visual Studio 2012\Projects\DefiningClassesPartOne\HomeworkExams\obj\Debug\HomeworkExams.pdb
